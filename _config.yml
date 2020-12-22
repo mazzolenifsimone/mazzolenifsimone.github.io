@@ -48,9 +48,8 @@ linkedin_username: simone-mazzoleni-ferracini
 about_profile_image: images/FT_SimoneMazzoleniFerracini.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Simone and I'm a Mathematical Engineer. I applied my knowledge mainly on data science and functional analysis. 
-# As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
   I am mostly skilled in <mark>Python</mark>, <mark>MatLab</mark> and <mark>spreadsheet development</mark>
+# As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
 content:
 #  - title: Projects # Title for the section
