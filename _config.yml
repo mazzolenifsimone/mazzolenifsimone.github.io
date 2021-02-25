@@ -16,17 +16,17 @@ darkmode: false
 # Social links
 twitter_username: SimoneFerracini
 github_username:  mazzolenifsimone
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# stackoverflow_username: --
+# dribbble_username: --
+# facebook_username: --
+# flickr_username: --
 instagram_username: simomazzferr
 linkedin_username: simone-mazzoleni-ferracini
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# xing_username: --
+# pinterest_username: --
+# youtube_username: --
+# googleplus_username: --
+# orcid_username: --
 
 # Additional icon links
 #additional_links:
@@ -40,7 +40,7 @@ linkedin_username: simone-mazzoleni-ferracini
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-3CW23CC602"
 # google_analytics: "UA-00000000-0"
 
 # About Section
