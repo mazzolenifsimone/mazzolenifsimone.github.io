@@ -49,7 +49,7 @@ about_profile_image: images/FT_SimoneMazzoleniFerracini.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Simone and I am a Mathematical Engineer and problem solver. I applied my knowledge mainly on data science and functional analysis.
   
-  I am mostly skilled in <mark>spreadsheet development</mark>, <mark>MatLab</mark> and <mark>Python</mark>.
+  I am mostly skilled in <mark>spreadsheet development</mark>, <mark>MATLAB</mark> and <mark>Python</mark>.
 
   
 
@@ -62,7 +62,7 @@ content:
         link: https://www.reti.it/
         link_text: reti.it
         sub_title: Functional Analyst, Data Scientist
-        caption: July 2017 - Present
+        caption: 2017 - Present
 #        quote: >
         description: | # this will include new lines to allow paragraphs
            In Reti S.p.A I am a functional analysis consultant and data scientist, mainly for big insurance companies.
@@ -78,7 +78,9 @@ content:
 #      quote: >
 #         Where applied statistics and data science meets information tecnology
       description: | # this will include new lines to allow paragraphs
-         WIP
+         During my last years at Politecnico di Milano I deepened theoretichal knowledge on mathematics, statistics and algorithmics and tested them on practical projects. 
+         In my thesis I approached the energy consumption problem on smart grid. I re-designed a mixed-integer linear programming model and developed in Python some greedy local search alogorithms to find near optimal solutions.
+         
 
     - layout: left
       title: Politecnico di Milano
@@ -87,7 +89,8 @@ content:
 #      quote: >
 #       Where applied statistics and data science meets information tecnology: 
       description: | # this will include new lines to allow paragraphs
-         My early years at Politecnico di Milano were mainly focused on learning the fundamental knowledge of mathematics, physics, statistics and programming with <mark>C++</mark> and <mark>R</mark>.
+         My early years at Politecnico di Milano were mainly focused on learning the fundamental knowledge of mathematics, physics, statistics, finance and programming with <mark>C++</mark> and <mark>R</mark>.
+         I graduated in 2012 with a thesis on a numerical approach for portfolio optimization with Matlab.
 
 
   - title: Projects # Title for the section
