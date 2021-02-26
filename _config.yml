@@ -66,7 +66,8 @@ content:
 #        quote: >
         description: | # this will include new lines to allow paragraphs
            In Reti S.p.A I am a functional analysis consultant and data scientist, mainly for big insurance companies.
-           I learned how to menage custom projects in partership with the client, starting from client's needs, passing through design and development of solution and ending with solution reporting. 
+           I learned how to menage custom projects in partership with the client, starting from client's needs, passing through design and development of solution and ending with solution reporting.
+           
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -79,7 +80,7 @@ content:
 #         Where applied statistics and data science meets information tecnology
       description: | # this will include new lines to allow paragraphs
          During my last years at Politecnico di Milano I deepened theoretichal knowledge on mathematics, statistics and algorithmics and tested them on practical projects. 
-         In my thesis I approached the energy consumption problem on smart grid. I re-designed a mixed-integer linear programming model and developed in Python some greedy local search alogorithms to find near optimal solutions.
+         In my thesis I approached the energy consumption problem on smart grid. I redesigned a mixed-integer linear programming model and developed in <mark>Python</mark> some greedy local search algorithms to find near-optimal solutions.
          
 
     - layout: left
